@@ -10,9 +10,8 @@
 
 1. [Badges](#badges)
 2. [Achievements](#achievements)
-3. [User Content](#user-content)
-4. [Customization Ideas](#customization-ideas)
-5. [Contributing](#contributing)
+3. [Profile Badges](#profile-badges)
+4. [Contributing](#contributing)
 
 ---
 
@@ -728,15 +727,17 @@ Here, we'll show you how to showcase your GitHub achievements in your README.
 
 ---
 
-<h2 id="user-content">👥 User Content</h2>
+<h2 id="profile-badges">👥 Profile Badges</h2>
 
-Discover how to personalize your README with user-generated content.
+Discover how to personalize your Profile README.
 
----
+<h3>GitHub Stats Card</h2>
 
-<h2 id="customization-ideas">💡 Customization Ideas</h2>
+- Themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
 
-Need inspiration? Check out these creative ideas for customizing your README.
+| Badge | URL | THEME |
+| --- | --- | --- |
+| ![MegaFocus's GitHub stats](https://github-readme-stats.vercel.app/api?username=megafocusdev&show_icons=true&theme=radical) | `[![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)` | `[![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=yourtheme)](https://github.com/anuraghazra/github-readme-stats)` |
 
 ---
 
