@@ -713,7 +713,18 @@ Here, we'll show you how to showcase your GitHub achievements in your README.
 
 | Badge | Title | How to get |
 | --- | --- | --- |
-| ![Heart On Your Sleeve Badge]() | Heart On Your Sleeve | ???
+| ![Heart On Your Sleeve Badge](/Images/heart-on-your-sleeve-default.png) | Heart On Your Sleeve | (???) |
+| ![Open Sourcerer Badge](/Images/open-sourcerer-default.png) | Open Sourcerer | (???) |
+| ![Starstruck Badge](/Images/starstruck-default.png) | Starstruck | Created a repository that has min 16 stars |
+| ![Quickdraw Badge](/Images/quickdraw-default.png) | Quickdraw | Closed an issue or a pull request within 5 min of opening |
+| ![Pull Shark Badge](/Images/pull-shark-default.png) | Pull Shark | Opened min 2 pull request that has been merged |
+| ![Galaxy Brain Badge](/Images/galaxy-brain-default.png) | Galaxy Brain | Min 2 accepted answers in a discussion |
+| ![YOLO Badge](/Images/yolo-default.png) | YOLO | Merged a pull request without code review |
+| ![GitHub Sponsor Achievement Badge](/Images/public-sponsor-default.png) | Public Sponsor | Sponsoring open source contributor via [GitHub Sponsors](https://github.com/sponsors) |
+| ![Pair Extraordinaire Badge](/Images/pair-extraordinaire-default.png) | Pair Extraordinaire | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request |
+| ![Arctic Code Vault Contributor Achievement Badge](/Images/arctic-code-vault-contributor-default.png) | Arctic Code Vault Contributor | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) ❌ This badge is no longer earnable ❌|
+| ![Mars 2020 Helicopter Contributor Achievement Badge](/Images/mars-2020-contributor-default.png) | Mars 2020 Contributor | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) ❌ This badge is no longer earnable ❌|
+
 
 ---
 
