@@ -711,6 +711,10 @@ In this section, you'll find a variety of badge styles and the code snippets to 
 
 Here, we'll show you how to showcase your GitHub achievements in your README.
 
+| Badge | Title | How to get |
+| --- | --- | --- |
+| ![Heart On Your Sleeve Badge]() | Heart On Your Sleeve | ???
+
 ---
 
 <h2 id="user-content">👥 User Content</h2>
