@@ -1,7 +1,7 @@
 <h1 align="center">🚀 CompleteReadmeKit 🚀</h1>
 
 <p align="center">
-  Your guide to all things related to GitHub README customization. Find a complete list of tips, tricks, and ideas to make your project stand out.
+  Your guide to all things related to GitHub README customization. Find a complete list of badges etc. to make your project/profile stand out.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 <h2 id="badges">🔖 Badges</h2>
 
-In this section, you'll find a variety of badge styles and the code snippets to include them in your README.
+In this section, you'll find a variety of badges to include them in your README.
 
 | Badge | URL |
 | ----- | --- |
@@ -711,7 +711,7 @@ In this section, you'll find a variety of badge styles and the code snippets to 
 
 <h2 id="achievements">🏆 Achievements</h2>
 
-Here, we'll show you how to showcase your GitHub achievements in your README.
+Here, we'll show you how to get and showcase your GitHub achievements in your README.
 
 | Badge | Title | How to get |
 | --- | --- | --- |
